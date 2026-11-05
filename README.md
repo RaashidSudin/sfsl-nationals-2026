@@ -1,7 +1,7 @@
 # SFSL Nationals 2026
 
-Official public tournament website for the Scrabble Federation of Sri Lanka.
+Public website for the Scrabble Federation of Sri Lanka.
 
-This repository contains the generated browser files for GitHub Pages. Live results, registrations, payment slips and administration use the existing secured SFSL service.
+Visit https://raashidsudin.github.io/sfsl-nationals-2026/
 
-The tournament has 24 rounds, with separate Under 13 and Plate registration pages.
+The Side events tab provides pairings and standings for Under 13 and Plate. Tournament management and registrations use the existing secure service. This repository contains generated public website files.

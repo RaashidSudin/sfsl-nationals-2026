@@ -6,5 +6,10 @@
     "type": "image/png"
   },
   "under13": null,
-  "plate": null
+  "plate": {
+    "path": "schedules/plate.jpg",
+    "url": "https://raashidsudin.github.io/sfsl-nationals-2026/schedules/plate.jpg",
+    "updated": 1795700488137,
+    "type": "image/jpeg"
+  }
 }

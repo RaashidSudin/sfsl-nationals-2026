@@ -1,5 +1,10 @@
 {
-  "championship": null,
+  "championship": {
+    "path": "schedules/championship.png",
+    "url": "https://raashidsudin.github.io/sfsl-nationals-2026/schedules/championship.png",
+    "updated": 1795686654409,
+    "type": "image/png"
+  },
   "under13": null,
   "plate": null
 }

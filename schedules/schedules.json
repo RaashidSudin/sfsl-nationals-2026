@@ -5,7 +5,12 @@
     "updated": 1795686654409,
     "type": "image/png"
   },
-  "under13": null,
+  "under13": {
+    "path": "schedules/under13.webp",
+    "url": "https://raashidsudin.github.io/sfsl-nationals-2026/schedules/under13.webp",
+    "updated": 1795701323333,
+    "type": "image/webp"
+  },
   "plate": {
     "path": "schedules/plate.jpg",
     "url": "https://raashidsudin.github.io/sfsl-nationals-2026/schedules/plate.jpg",
